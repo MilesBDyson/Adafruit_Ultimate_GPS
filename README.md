@@ -2,6 +2,7 @@ Adafruit Ultimate GPS
 =====================
 
 Python files to use the Ultimate GPS on the Beaglebone Black
+
 Thanks to Paul McWhorter for this tutorial. [Beaglebone Black GPS](http://www.toptechboy.com/tutorial/beaglebone-black-gps-lesson-1-hooking-up-the-adafruit-ultimate-gps/)
 
 
